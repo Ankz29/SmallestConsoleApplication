@@ -1,0 +1,6 @@
+c:\users\ankita\documents\visual studio 2013\Projects\SmallestConsoleApplication\SmallestConsoleApplication\bin\Debug\SmallestConsoleApplication.exe.config
+c:\users\ankita\documents\visual studio 2013\Projects\SmallestConsoleApplication\SmallestConsoleApplication\bin\Debug\SmallestConsoleApplication.exe
+c:\users\ankita\documents\visual studio 2013\Projects\SmallestConsoleApplication\SmallestConsoleApplication\bin\Debug\SmallestConsoleApplication.pdb
+c:\users\ankita\documents\visual studio 2013\Projects\SmallestConsoleApplication\SmallestConsoleApplication\obj\Debug\SmallestConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\ankita\documents\visual studio 2013\Projects\SmallestConsoleApplication\SmallestConsoleApplication\obj\Debug\SmallestConsoleApplication.exe
+c:\users\ankita\documents\visual studio 2013\Projects\SmallestConsoleApplication\SmallestConsoleApplication\obj\Debug\SmallestConsoleApplication.pdb
